@@ -41,7 +41,7 @@ f6a0cb102c62879d397b12b62c092c06	md5	bluered
 
 ```
 ### Conclusions 
-
+```
 1)What type of hashing algorithm was used to protect passwords?
 Ans: Md5
 
@@ -57,10 +57,10 @@ iv)Concept of password salting must be used.
 
 4)What can you tell about the organization’s password policy (e.g. password length, key space, etc.)?
 Ans: i)There is no rule regarding the minimum length of the password.
-    ii)There is no rule regarding use of special characters in the password.
+          ii)There is no rule regarding use of special characters in the password.
  
 5)What would you change in the password policy to make breaking the passwords harder?
 Ans: i) The password must be of minimum 8 characters.
-     ii) Minimum 2 special characters (/,#,*,... etc)  must be used in the password.
-     iii)An external Api based tool which checks for password strength should show that the used password is strong.
-
+ii) Minimum 2 special characters (/,#,*,... etc)  must be used in the    password.
+iii)An external Api based tool which checks for password strength should show that the used password is strong.
+```
