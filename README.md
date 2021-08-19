@@ -67,3 +67,14 @@ Ans: i) The password must be of minimum 8 characters.
 ```
 #### Complete report is available at:
 https://github.com/ketanraj15/Goldman-Sachs-Crack-leaked-password-database/blob/07427e5c79a634b42426fed8cfa22ab7e706274e/Report.docx
+
+## Resources
+https://arstechnica.com/information-technology/2013/05/how-crackers-make-minced-meat-out-of-your-passwords/
+
+https://howsecureismypassword.net/
+
+https://en.wikipedia.org/wiki/Password_cracking#Software
+
+https://en.wikipedia.org/wiki/Salt_(cryptography)
+
+https://crackstation.net/ 
