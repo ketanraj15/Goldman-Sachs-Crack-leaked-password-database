@@ -24,7 +24,7 @@ You must determine the following:
 ### Observations 
 
 I was able to crack 13 passwords from the given 19 hashcodes in the password dump file very easily using https://crackstation.net/ 
-
+```
 e10adc3949ba59abbe56e057f20f883e	md5	123456
 25f9e794323b453885f5181f1b624d0b	md5	123456789
 d8578edf8458ce06fbc5bb76a58c5ca4	md5	qwerty
@@ -39,6 +39,7 @@ fcea920f7412b5da7be0cf42b8c93759	md5	1234567
 917eb5e9d6d6bca820922a0c6f7cc28b	md5	Pa$$word1
 f6a0cb102c62879d397b12b62c092c06	md5	bluered
 
+```
 ### Conclusions 
 
 1)What type of hashing algorithm was used to protect passwords?
