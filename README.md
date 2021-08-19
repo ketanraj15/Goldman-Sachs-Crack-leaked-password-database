@@ -66,4 +66,4 @@ Ans: i) The password must be of minimum 8 characters.
 
 ```
 #### Complete report is available at:
-https://github.com/ne3lakolkar/Goldman-Sachs-Crack-Leaked-Passsword-Database/blob/main/SHA%20Hashes%20and%20Goldman%20Sachs%20Internship.pdf
+https://github.com/ketanraj15/Goldman-Sachs-Crack-leaked-password-database/blob/07427e5c79a634b42426fed8cfa22ab7e706274e/Report.docx
