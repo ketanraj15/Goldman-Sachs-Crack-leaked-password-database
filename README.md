@@ -7,7 +7,7 @@ As a governance analyst it is part of your duties to assess the level of protect
 
 ## Project Objectuve
 
-** Your job is to crack as many passwords as possible with available tools (e.g. use Hashcat). **
+**Your job is to crack as many passwords as possible with available tools (e.g. use Hashcat).**
 
 You must determine the following:
 
