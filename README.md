@@ -65,6 +65,5 @@ Ans: i) The password must be of minimum 8 characters.
    iii)An external Api based tool which checks for password strength should show that the used password is strong.
 
 ```
-####Complete report is available at:
-
+#### Complete report is available at:
 https://github.com/ne3lakolkar/Goldman-Sachs-Crack-Leaked-Passsword-Database/blob/main/SHA%20Hashes%20and%20Goldman%20Sachs%20Internship.pdf
